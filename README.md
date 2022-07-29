@@ -1,16 +1,32 @@
-### Hi there 👋
+##
 
-<!--
-**anabborges/anabborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<h1> Hey! My name is Ana Clara!</h1> 
+<p>I am a brazilian student of software engineering at the University of Brasilia. I am currently studying python </p>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Technologies 💻:
+
+<div>
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
+</div>
+
+##
+
+### Social networks 📎:
+
+<div>
+<a href="https://instagram.com/_ana.borges"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:abarbosaborges17@gmail.com"><img height='30' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+##
+
+<div>
+    <br>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=g5ra9cxbec50k1yj4rfnt4t6a&redirect=true">
+        <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=g5ra9cxbec50k1yj4rfnt4t6a&cover_image=true&theme=default" ></p>
+    </a>
+</div>
