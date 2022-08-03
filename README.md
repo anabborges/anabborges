@@ -1,7 +1,7 @@
 ##
 
 <div>
-<h1> Welcome to my github account! I'm Ana Clara!</h1> 
+<h1> Hey! I'm Ana Clara!</h1> 
 <p>I am a brazilian student of software engineering at the University of Brasilia. I am currently studying python </p>
 </div>
 
