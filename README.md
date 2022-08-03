@@ -2,7 +2,7 @@
 
 <div>
 <h1> Hey! My name is Ana Clara!</h1> 
-<p>I am a brazilian girl looking for new challenges! Currently I'm studying software engineering at the University of Brasilia and I'm learning python. I created my account so I can share my improvement with you all! Hope you enjoy my github account and cross your fingers for me! </p>
+<p>I am a brazilian girl looking for new challenges! Currently I'm studying software engineering at the University of Brasilia and I'm learning python.👩‍💻 I created my account so I can share my improvement with you all!🥰 Hope you enjoy my github account and cross your fingers for me! </p>
 </div>
 
 ##
