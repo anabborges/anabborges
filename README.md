@@ -2,7 +2,7 @@
 
 <div>
 <h1> Hey! My name is Ana Clara!</h1> 
-<p>I'm a brazilian girl looking for new challenges! My hobbies are programming, reading and playing games! Currently I'm studying software engineering at the University of Brasilia and right now I'm learning HTML, CSS and JavaScript.👩‍💻 I created my account so I can share my improvement with you all!🥰 Hope you enjoy my github account and cross your fingers for me! </p>
+<p>I'm a brazilian girl looking for new challenges! My hobbies are programming, reading and playing games! Currently I'm studying software engineering at the University of Brasilia and right now I'm learning JavaScript and Java.👩‍💻 I created my account so I can share my improvement with you all!🥰 Hope you enjoy my github account and cross your fingers for me! </p>
 </div>
 
 ##
@@ -10,7 +10,9 @@
 ### Languages and Technologies 💻:
 
 <div>
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 </div>
 
 ##
