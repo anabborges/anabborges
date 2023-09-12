@@ -25,11 +25,3 @@
 <a href="https://www.linkedin.com/in/anacbborges/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-##
-
-<div>
-    <br>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=g5ra9cxbec50k1yj4rfnt4t6a&redirect=true">
-        <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=g5ra9cxbec50k1yj4rfnt4t6a&cover_image=true&theme=default" ></p>
-    </a>
-</div>
