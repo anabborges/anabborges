@@ -1,7 +1,7 @@
 ##
 
 <div>
-<h1> Hey! My name is Ana Clara!</h1> 
+<h1> Hey! My name is Ana Borges!</h1> 
 <p>I'm a brazilian girl looking for new challenges! My hobbies are programming, reading and playing games! Currently I'm studying software engineering at the University of Brasilia and right now I'm learning JavaScript and Java.👩‍💻 I created my account so I can share my improvement with you all!🥰 Hope you enjoy my github account and cross your fingers for me! </p>
 </div>
 
